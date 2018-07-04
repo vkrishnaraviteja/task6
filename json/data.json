@@ -1,0 +1,27 @@
+{
+  "profiles":[
+
+  {
+    "name":"vkrt",
+    "label":"DBA",
+    "company":"infosys"
+  },
+  {
+      "name":"krishna",
+      "label":"front-end",
+      "company":"polaris"
+    },
+
+
+      {
+        "name":"Ravi",
+        "label":"Tech-lead",
+        "company":"CA"
+      },
+        {
+          "name":"Teja",
+          "label":"DBA",
+          "company":"infosys"
+        }
+]
+}
